@@ -1,0 +1,7 @@
+# Yerel araç ayarları
+.claude/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
