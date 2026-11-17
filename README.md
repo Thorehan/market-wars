@@ -2,20 +2,19 @@
 
 Aynı restoranda iki oyuncunun 3 dakika boyunca en çok parayı kazanmak için yarıştığı, joystick ile oynanan dikey ekran oyununun test prototipi. Tek dosyadır (`index.html`). Kurulum, sunucu ya da ücret gerekmez.
 
+## Hemen oyna
+
+**https://thorehan.github.io/market-wars/**
+
+Telefonda açıp "Ana ekrana ekle" dersen uygulama gibi tam ekran açılır.
+
 ## Yerelde oynamak
 
 `index.html` dosyasına çift tıkla, tarayıcıda açılır.
 
-Telefonda denemek için aşağıdaki GitHub Pages adımlarıyla bir link oluştur ve o linki telefonda aç.
+## Yayın (GitHub Pages)
 
-## GitHub'da ücretsiz yayınlamak (GitHub Pages)
-
-1. github.com'da yeni bir **public** repo oluştur (ör. `market-wars-prototype`).
-2. **Add file → Upload files** ile `index.html` ve `README.md` dosyalarını yükle, **Commit changes** de.
-3. Repo'da **Settings → Pages** bölümüne git. *Source* olarak **Deploy from a branch**, branch olarak **main** ve **/(root)** seç, **Save** de.
-4. 1–2 dakika sonra oyun şu adreste yayında olur: `https://<kullanıcı-adın>.github.io/market-wars-prototype/`
-
-Bu linki telefonda açıp "Ana ekrana ekle" dersen uygulama gibi tam ekran açılır.
+Oyun `main` dalının kökünden GitHub Pages ile yayınlanır (**Settings → Pages → Deploy from a branch → main / (root)**). `main`'e gönderilen her değişiklik 1–2 dakika içinde yukarıdaki linkte görünür.
 
 ## Modlar
 
